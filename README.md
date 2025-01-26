@@ -1,6 +1,6 @@
  Notes App
 
-The **Notes App** is a simple and intuitive Android application that allows users to create, update, and delete notes. The app uses SQLite as its local database for storing notes, ensuring offline functionality.
+The **Notes App** is a simple  Android application that allows users to create, update, and delete notes. The app uses SQLite as its local database for storing notes, ensuring offline functionality.
 
 ---
 
