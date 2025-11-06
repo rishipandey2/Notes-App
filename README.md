@@ -15,18 +15,7 @@ The **Notes App** is a simple  Android application that allows users to create, 
 
 ---
 
-## Screenshots
 
-### Main Screen
-![Main Screen Placeholder](#)
-
-### Add Note Screen
-![Add Note Screen Placeholder](#)
-
-### Edit Note Screen
-![Edit Note Screen Placeholder](#)
-
----
 
 ## Prerequisites
 
